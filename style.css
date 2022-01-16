@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 1920px;
+    margin: 0;
+}
+
+header {
+    padding-top: 79px;
+    padding-left: 399px;
+    padding-bottom: 141px;
+    background-color: #EEEFF1;
+}
+
+.about-me {
+    background-color: #F9F9F9;
+    padding: 112px 690px 100px;
+    text-align: center;
+}
+
+.numbers {
+    background-color: #34547A;
+}
+
+.main-video {
+    background-color: #EEEFF1;
+}
+
+footer {
+    background-color: #34547A;
+}
